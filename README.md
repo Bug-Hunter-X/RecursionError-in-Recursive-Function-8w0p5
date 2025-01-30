@@ -1,0 +1,1 @@
+This repository contains a Python program demonstrating a common error: RecursionError. The program uses a recursive function to calculate the sum of numbers up to a given input, causing a stack overflow when the input is large.  The solution demonstrates how to use iteration to avoid this issue.
